@@ -1,0 +1,2 @@
+# Members of the operator group may gain root privileges
+%operator ALL = (ALL) NOPASSWD: ALL
